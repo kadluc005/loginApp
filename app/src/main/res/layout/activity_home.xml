@@ -15,7 +15,7 @@
             android:id="@+id/username_txt"
             android:textSize="35dp"
             android:text="Bienvenue👋"
-            android:fontFamily="@font/savage"
+            android:fontFamily="@font/poppins"
             android:textStyle="bold"></TextView>
         <Button
             android:layout_width="match_parent"
@@ -23,6 +23,7 @@
             android:layout_margin="25dp"
             android:backgroundTint="@color/black"
             android:text="Revenir à la page de connexion"
+            android:fontFamily="@font/poppins"
             android:textSize="18sp"
             android:onClick="back"></Button>
     </LinearLayout>
